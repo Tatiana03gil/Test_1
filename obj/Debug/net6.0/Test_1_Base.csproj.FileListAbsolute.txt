@@ -1,0 +1,15 @@
+D:\Документы\Desktop\Test_1_Base\obj\Debug\net6.0\Test_1_Base.csproj.AssemblyReference.cache
+D:\Документы\Desktop\Test_1_Base\obj\Debug\net6.0\Test_1_Base.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\Desktop\Test_1_Base\obj\Debug\net6.0\Test_1_Base.AssemblyInfoInputs.cache
+D:\Документы\Desktop\Test_1_Base\obj\Debug\net6.0\Test_1_Base.AssemblyInfo.cs
+D:\Документы\Desktop\Test_1_Base\obj\Debug\net6.0\Test_1_Base.csproj.CoreCompileInputs.cache
+D:\Документы\Desktop\Test_1_Base\bin\Debug\net6.0\Test_1_Base.exe
+D:\Документы\Desktop\Test_1_Base\bin\Debug\net6.0\Test_1_Base.deps.json
+D:\Документы\Desktop\Test_1_Base\bin\Debug\net6.0\Test_1_Base.runtimeconfig.json
+D:\Документы\Desktop\Test_1_Base\bin\Debug\net6.0\Test_1_Base.dll
+D:\Документы\Desktop\Test_1_Base\bin\Debug\net6.0\Test_1_Base.pdb
+D:\Документы\Desktop\Test_1_Base\obj\Debug\net6.0\Test_1_Base.dll
+D:\Документы\Desktop\Test_1_Base\obj\Debug\net6.0\refint\Test_1_Base.dll
+D:\Документы\Desktop\Test_1_Base\obj\Debug\net6.0\Test_1_Base.pdb
+D:\Документы\Desktop\Test_1_Base\obj\Debug\net6.0\Test_1_Base.genruntimeconfig.cache
+D:\Документы\Desktop\Test_1_Base\obj\Debug\net6.0\ref\Test_1_Base.dll
